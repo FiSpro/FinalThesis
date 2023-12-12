@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.8.5">
+        <ModelTarget name="Object2" targetId="cbee3ebf2c324697a4955b182fc65d40" bbox="-0.024481 0.001219 -0.016712 0.024434 0.061999 0.016570" version="13.0" toolVersion="v5.8.5" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="Object1" targetId="4a414b45b29c405ca2acdb24f9e3272a" bbox="-0.033457 -0.021022 -0.037664 0.042623 0.024188 0.042402" version="13.0" toolVersion="v5.8.5" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="Object3" targetId="6f663a3fe834450bad6aece43e3b2f53" bbox="-0.045174 0.000398 -0.044428 0.045062 0.016163 0.043341" version="13.0" toolVersion="v5.8.5" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Object2" assemblyId="462385f1eb314dcaaa9e578ac4c6e5a0">
+        <Part name="Object2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Object1" assemblyId="19f3fdd04684472ba7f9df082a907c44">
+        <Part name="Object1" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Object3" assemblyId="4590b54be6944d6b984ab5270515d171">
+        <Part name="Object3" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="63e7b406041e48b1963f13d23fd71d24" name="Final" toolVersion="v5.8.5" version="36.0" />
+</QCARInfo>
